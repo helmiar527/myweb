@@ -39,7 +39,7 @@
 
   <!-- Jumbotron -->
   <section class="jumbotron">
-    <h1 class="display-4 fw-bold">HelmiAR527</h1>
+    <h1 class="display-4 fw-bold judul">HelmiAR527</h1>
     <p class="lead">Selamat datang di website pribadi HelmiAR527, dimana di sini saya menyediakan beberapa aplikasi yang mungkin kalian bisa gunakan.</p>
     <hr class="my-4">
     <p>Silahkan untuk daftar di bawah untuk login.</p>
